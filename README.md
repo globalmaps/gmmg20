@@ -9,4 +9,4 @@ Credit: "Global Map of Madagascar © ISCGM / National Institute of Cartography a
 
 National Institute of Cartography and Hydrography, Madagascar. 
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/madagascar.png)
+E-mail: ![email](email.png)
